@@ -1,4 +1,4 @@
-package br.edu.ifsp.books;
+package br.edu.ifsp.books.model;
 
 import java.util.ArrayList;
 
